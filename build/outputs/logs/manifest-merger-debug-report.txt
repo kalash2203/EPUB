@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:2:1-81:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\83913eb7acd9b2a0e43caf3cd32b0520\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\177fb96b420cf644a30f841ddc703f4c\transformed\preference-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\c69f6ef3eaaeb1a92397deb75016f3e4\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:exifinterface:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\a76dc16c068498fe8fef3c3d9d7415e2\transformed\exifinterface-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-3\55670f1dfe63e33e312d3c6d745e4701\transformed\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\453b2dbf4923a49e7699bf40b81ea5ce\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\61f9c4b7e1fb2e0aadfa4af45edb8488\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\983d1276c69aad6cc84e734e3323d2aa\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b925550f9fb10b1d790d54505e7beef9\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\efabc4dee3141e1913e161e21c13378e\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\10971a7a13e3d808c62152b593c292f4\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\a4eac7736709893ff3a7831061d261b9\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\17e1781faa7f3fb30dae6b3670f8d3a1\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f77414182997c0d3678677756d13d1a4\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\307a634f881c9150dcb09cf7b804aba2\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\35ecf6b98a3bfc99a1ac9da4df58a891\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\abf76be340f75fbd6d44ca731066dbcf\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\10a404fbc7c81ea5c8e999ac5aa1f2a1\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\549ec6ded80f60c6ff50ebadb9d27c4b\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\630159f0056ba9aefd58bcf7a06ed82f\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\4ffaf0f424db945b99df65497605e9e7\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\2cd748d1131625a2068663a77830e8de\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\a32385f64421d4e0984150977459957a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\1d0c4a07f503e3438d2653299d2c3536\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\a842ee97e53b7950f5953a68cad49998\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\32b78144a9b85a0f8260aa2e8bc79ff5\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\cbf10ff3422ead9bcdaf06e32d64192f\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\bcabdebad5b38c732454e4c46944b6a8\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\094ccbf104c46158e75fff8e54e8f1bc\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b273d2560088f92441aa343ea2f47b01\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\6d8a6ff3d2bbced0977e5a32d4921bca\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\6411c31c5a7aaed7e3522eb12dc1278c\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\96d74065e1de65704654bd818ad6e9ba\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:2:1-81:12
+		INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:2:1-81:12
+		INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:9:5-79:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\83913eb7acd9b2a0e43caf3cd32b0520\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\83913eb7acd9b2a0e43caf3cd32b0520\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-3\55670f1dfe63e33e312d3c6d745e4701\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-3\55670f1dfe63e33e312d3c6d745e4701\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\4ffaf0f424db945b99df65497605e9e7\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\4ffaf0f424db945b99df65497605e9e7\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\2cd748d1131625a2068663a77830e8de\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\2cd748d1131625a2068663a77830e8de\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:11:9-52
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\4ffaf0f424db945b99df65497605e9e7\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:16:9-40
+activity#com.github.onursert.bookpub.MainSettings
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:18:19-47
+activity#com.github.onursert.bookpub.EpubViewer
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:19:9-22:20
+	android:theme
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:20:13-39
+activity#com.github.onursert.bookpub.MainActivity
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:23:9-78:20
+	android:configChanges
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:25:13-59
+	android:theme
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:30:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:host:*+data:mimeType:application/epub+zip+data:scheme:content
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:37:27-75
+category#android.intent.category.OPENABLE
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:38:27-74
+data
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+	android:host
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:41:23-39
+	android:scheme
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:23-47
+	android:pathPattern
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+	android:mimeType
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:42:23-62
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.EPUB+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.epub+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.EPUB+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.epub+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.EPUB+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.epub+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\.EPUB+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\..*\\.epub+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\.EPUB+data:pathPattern:.*\\..*\\..*\\..*\\..*\\..*\\.epub+data:pathPattern:.*\\..*\\..*\\..*\\..*\\.EPUB+data:pathPattern:.*\\..*\\..*\\..*\\..*\\.epub+data:pathPattern:.*\\..*\\..*\\..*\\.EPUB+data:pathPattern:.*\\..*\\..*\\..*\\.epub+data:pathPattern:.*\\..*\\..*\\.EPUB+data:pathPattern:.*\\..*\\..*\\.epub+data:pathPattern:.*\\..*\\.EPUB+data:pathPattern:.*\\..*\\.epub+data:pathPattern:.*\\.EPUB+data:pathPattern:.*\\.epub+data:scheme:content+data:scheme:file
+ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:45:13-76:29
+uses-sdk
+INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\83913eb7acd9b2a0e43caf3cd32b0520\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\83913eb7acd9b2a0e43caf3cd32b0520\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\177fb96b420cf644a30f841ddc703f4c\transformed\preference-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\177fb96b420cf644a30f841ddc703f4c\transformed\preference-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\c69f6ef3eaaeb1a92397deb75016f3e4\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\c69f6ef3eaaeb1a92397deb75016f3e4\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\a76dc16c068498fe8fef3c3d9d7415e2\transformed\exifinterface-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\a76dc16c068498fe8fef3c3d9d7415e2\transformed\exifinterface-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-3\55670f1dfe63e33e312d3c6d745e4701\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-3\55670f1dfe63e33e312d3c6d745e4701\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\453b2dbf4923a49e7699bf40b81ea5ce\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\453b2dbf4923a49e7699bf40b81ea5ce\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\61f9c4b7e1fb2e0aadfa4af45edb8488\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\61f9c4b7e1fb2e0aadfa4af45edb8488\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\983d1276c69aad6cc84e734e3323d2aa\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\983d1276c69aad6cc84e734e3323d2aa\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b925550f9fb10b1d790d54505e7beef9\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b925550f9fb10b1d790d54505e7beef9\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\efabc4dee3141e1913e161e21c13378e\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\efabc4dee3141e1913e161e21c13378e\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\10971a7a13e3d808c62152b593c292f4\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\10971a7a13e3d808c62152b593c292f4\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\a4eac7736709893ff3a7831061d261b9\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\a4eac7736709893ff3a7831061d261b9\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\17e1781faa7f3fb30dae6b3670f8d3a1\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\17e1781faa7f3fb30dae6b3670f8d3a1\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f77414182997c0d3678677756d13d1a4\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f77414182997c0d3678677756d13d1a4\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\307a634f881c9150dcb09cf7b804aba2\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\307a634f881c9150dcb09cf7b804aba2\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\35ecf6b98a3bfc99a1ac9da4df58a891\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\35ecf6b98a3bfc99a1ac9da4df58a891\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\abf76be340f75fbd6d44ca731066dbcf\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\abf76be340f75fbd6d44ca731066dbcf\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\10a404fbc7c81ea5c8e999ac5aa1f2a1\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\10a404fbc7c81ea5c8e999ac5aa1f2a1\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\549ec6ded80f60c6ff50ebadb9d27c4b\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\549ec6ded80f60c6ff50ebadb9d27c4b\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\630159f0056ba9aefd58bcf7a06ed82f\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\630159f0056ba9aefd58bcf7a06ed82f\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\4ffaf0f424db945b99df65497605e9e7\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\4ffaf0f424db945b99df65497605e9e7\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\2cd748d1131625a2068663a77830e8de\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\2cd748d1131625a2068663a77830e8de\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\a32385f64421d4e0984150977459957a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\a32385f64421d4e0984150977459957a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\1d0c4a07f503e3438d2653299d2c3536\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\1d0c4a07f503e3438d2653299d2c3536\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\a842ee97e53b7950f5953a68cad49998\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\a842ee97e53b7950f5953a68cad49998\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\32b78144a9b85a0f8260aa2e8bc79ff5\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\32b78144a9b85a0f8260aa2e8bc79ff5\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\cbf10ff3422ead9bcdaf06e32d64192f\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\cbf10ff3422ead9bcdaf06e32d64192f\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\bcabdebad5b38c732454e4c46944b6a8\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\bcabdebad5b38c732454e4c46944b6a8\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\094ccbf104c46158e75fff8e54e8f1bc\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\094ccbf104c46158e75fff8e54e8f1bc\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b273d2560088f92441aa343ea2f47b01\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\b273d2560088f92441aa343ea2f47b01\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\6d8a6ff3d2bbced0977e5a32d4921bca\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\6d8a6ff3d2bbced0977e5a32d4921bca\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\6411c31c5a7aaed7e3522eb12dc1278c\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\6411c31c5a7aaed7e3522eb12dc1278c\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\96d74065e1de65704654bd818ad6e9ba\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\96d74065e1de65704654bd818ad6e9ba\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64

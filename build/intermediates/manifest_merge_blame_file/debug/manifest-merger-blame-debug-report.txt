@@ -1,0 +1,197 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.github.onursert.bookpub"
+4    android:versionCode="61"
+5    android:versionName="6.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:7:5-67
+13-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:7:22-64
+14
+15    <application
+15-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:9:5-79:19
+16        android:allowBackup="true"
+16-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+17-->[com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\4ffaf0f424db945b99df65497605e9e7\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:12:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:13:9-41
+21        android:requestLegacyExternalStorage="true"
+21-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:11:9-52
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:14:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:15:9-35
+24        android:theme="@style/AppTheme" >
+24-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:16:9-40
+25        <activity android:name="com.github.onursert.bookpub.MainSettings" />
+25-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:18:9-50
+25-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:18:19-47
+26        <activity
+26-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:19:9-22:20
+27            android:name="com.github.onursert.bookpub.EpubViewer"
+27-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:20:13-39
+28            android:theme="@style/AppTheme.NoActionBar" >
+28-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:21:13-56
+29        </activity>
+30        <activity
+30-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:23:9-78:20
+31            android:name="com.github.onursert.bookpub.MainActivity"
+31-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:24:13-41
+32            android:configChanges="orientation|screenSize"
+32-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:25:13-59
+33            android:theme="@style/AppTheme.NoActionBar" >
+33-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:26:13-56
+34            <intent-filter>
+34-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:27:13-31:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:28:17-69
+35-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:28:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:30:17-77
+37-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:30:27-74
+38            </intent-filter>
+39            <intent-filter>
+39-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:33:13-43:29
+40                <action android:name="android.intent.action.VIEW" />
+40-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:34:17-69
+40-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:34:25-66
+41
+42                <category android:name="android.intent.category.DEFAULT" />
+42-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:36:17-76
+42-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:36:27-73
+43                <category android:name="android.intent.category.BROWSABLE" />
+43-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:37:17-78
+43-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:37:27-75
+44                <category android:name="android.intent.category.OPENABLE" />
+44-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:38:17-77
+44-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:38:27-74
+45
+46                <data android:scheme="content" />
+46-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+46-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:23-47
+47                <data android:host="*" />
+47-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+47-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:41:23-39
+48                <data android:mimeType="application/epub+zip" />
+48-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+48-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:42:23-62
+49            </intent-filter>
+50            <intent-filter>
+50-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:45:13-76:29
+51                <action android:name="android.intent.action.VIEW" />
+51-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:34:17-69
+51-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:34:25-66
+52
+53                <category android:name="android.intent.category.DEFAULT" />
+53-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:36:17-76
+53-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:36:27-73
+54                <category android:name="android.intent.category.BROWSABLE" />
+54-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:37:17-78
+54-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:37:27-75
+55                <category android:name="android.intent.category.OPENABLE" />
+55-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:38:17-77
+55-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:38:27-74
+56
+57                <data android:scheme="file" />
+57-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+57-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:23-47
+58                <data android:scheme="content" />
+58-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+58-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:23-47
+59                <data android:host="*" />
+59-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+59-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:41:23-39
+60                <data android:mimeType="*/*" />
+60-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+60-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:42:23-62
+61                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.epub" />
+61-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+61-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+62                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.epub" />
+62-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+62-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+63                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.epub" />
+63-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+63-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+64                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\.epub" />
+64-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+64-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+65                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.epub" />
+65-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+65-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+66                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.epub" />
+66-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+66-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+67                <data android:pathPattern=".*\\..*\\..*\\..*\\.epub" />
+67-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+67-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+68                <data android:pathPattern=".*\\..*\\..*\\.epub" />
+68-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+68-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+69                <data android:pathPattern=".*\\..*\\.epub" />
+69-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+69-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+70                <data android:pathPattern=".*\\.epub" />
+70-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+70-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+71                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.EPUB" />
+71-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+71-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+72                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.EPUB" />
+72-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+72-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+73                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\..*\\.EPUB" />
+73-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+73-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+74                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\.EPUB" />
+74-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+74-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+75                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.EPUB" />
+75-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+75-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+76                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.EPUB" />
+76-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+76-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+77                <data android:pathPattern=".*\\..*\\..*\\..*\\.EPUB" />
+77-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+77-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+78                <data android:pathPattern=".*\\..*\\..*\\.EPUB" />
+78-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+78-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+79                <data android:pathPattern=".*\\..*\\.EPUB" />
+79-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+79-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+80                <data android:pathPattern=".*\\.EPUB" />
+80-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:40:17-50
+80-->C:\Users\lenovo\Desktop\BookPub-master\BookPub-master\src\main\AndroidManifest.xml:56:23-99
+81            </intent-filter>
+82        </activity>
+83
+84        <provider
+84-->[com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+85            android:name="com.squareup.picasso.PicassoProvider"
+85-->[com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+86            android:authorities="com.github.onursert.bookpub.com.squareup.picasso"
+86-->[com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+87            android:exported="false" />
+87-->[com.squareup.picasso:picasso:2.71828] C:\Users\lenovo\.gradle\caches\transforms-3\2c883dda73db2b1c4cac7c11d7ef75c6\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+88    </application>
+89
+90</manifest>
